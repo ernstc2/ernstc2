@@ -8,11 +8,11 @@
 
 ## About Me
 
-- 🎓 I'm currently pursuing a Bachelor of Science in Internet Technology and Web Sciences (ITWS) with a Minor in Economics at **Rensselaer Polytechnic Institute**. Expecting to graduate in May 2025.
-- 👨‍💻 I have gained hands-on experience through internships and various projects, ranging from software engineering to web development.
-- 🚀 I've contributed to building and deploying web applications, working on authentication systems, responsive UI design, and managing full project lifecycles.
-- 🌱 I’m passionate about modern web technologies, cloud computing, agile methodologies, and continuously learning new skills to solve real-world problems.
-- 💡 Fun fact: I love orange soda.
+- 🎓 BS in Internet Technology & Web Science (ITWS) + Economics minor at <b>Rensselaer Polytechnic Institute</b>
+- 🧩 I enjoy roles that blend <b>engineering + problem solving + stakeholder communication</b> (systems, product-ish, and data-heavy work)
+- 🛠️ Comfortable owning features end-to-end: requirements → implementation → testing → deployment → iteration
+- 🌱 Currently focused on strengthening: APIs, data modeling, automation, and clean UX for operational tools
+- 🥤 Fun fact: I love orange soda
 
 ---
 
