@@ -4,23 +4,23 @@
 </h1>
 
 <p align="center">
-  <em>Total Rewards Analyst @ Papa Johns | Partner &amp; CTO @ DIBBS Navigator | ITWS @ RPI â€¢ Economics Minor</em>
+  <em>Total Rewards Analyst @ Papa Johns | Partner &amp; CTO @ DIBBS Navigator | ITWS @ RPI • Economics Minor</em>
 </p>
 
 <p align="center">
-  I build and support products at the intersection of <b>engineering</b>, <b>data</b>, and <b>business strategy</b>â€”from federal-scale ETL pipelines and API integrations to consulting dashboards and full-stack web apps.
+  I build and support products at the intersection of <b>engineering</b>, <b>data</b>, and <b>business strategy</b>—from federal-scale ETL pipelines and API integrations to consulting dashboards and full-stack web apps.
 </p>
 
 ---
 
 ## About Me
 
-- ðŸ§­ Partner &amp; <b>CTO at DIBBS Navigator</b>, where I own the technical direction behind defense supply-chain data products
-- ðŸ“Š Full-time <b>Total Rewards Analyst at Papa Johns</b>, turning compensation &amp; benefits data into decisions
-- ðŸŽ“ B.S. in Information Technology &amp; Web Sciences (ITWS) + Economics minor at <b>Rensselaer Polytechnic Institute</b>
-- ðŸ› ï¸ Comfortable owning work end-to-end: discovery â†’ solution design â†’ build â†’ test â†’ deploy â†’ iterate
-- ðŸŒ± Currently sharpening: data engineering at scale, financial modeling, and TypeScript/Node
-- ðŸ¥¤ Fun fact: I love orange soda
+- 🧭 Partner &amp; <b>CTO at DIBBS Navigator</b>, where I own the technical direction behind defense supply-chain data products
+- 📊 Full-time <b>Total Rewards Analyst at Papa Johns</b>, turning compensation &amp; benefits data into decisions
+- 🎓 B.S. in Information Technology &amp; Web Sciences (ITWS) + Economics minor at <b>Rensselaer Polytechnic Institute</b>
+- 🛠️ Comfortable owning work end-to-end: discovery → solution design → build → test → deploy → iterate
+- 🌱 Currently sharpening: data engineering at scale, financial modeling, and TypeScript/Node
+- 🥤 Fun fact: I love orange soda
 
 ---
 
@@ -59,34 +59,34 @@
 
 ## Experience
 
-- <b>Papa Johns</b> | <b>Total Rewards Analyst</b> (Jun 2026 â€“ Present)
+- <b>Papa Johns</b> | <b>Total Rewards Analyst</b> (Jun 2026 – Present)
   - Analyze compensation and benefits data to support data-driven total rewards decisions
   - Partner across HR and Finance to translate business questions into clear, actionable analysis
 
-- <b>DIBBS Navigator</b> | <b>Partner &amp; Chief Technical Officer</b> (Jul 2026 â€“ Present)
+- <b>DIBBS Navigator</b> | <b>Partner &amp; Chief Technical Officer</b> (Jul 2026 – Present)
   - Co-own the company and set technical direction for defense supply-chain data products
   - Lead architecture, build priorities, and the data infrastructure behind the platform
 
-- <b>DIBBS Navigator</b> | <b>Data Engineer</b> (Mar 2026 â€“ Jun 2026)
+- <b>DIBBS Navigator</b> | <b>Data Engineer</b> (Mar 2026 – Jun 2026)
   - Built automated Python ETL pipelines ingesting federal logistics data from DLA FLIS and SAM.gov into SQL Server, replacing a manual 40+ step import process
   - Engineered a multi-table pipeline processing <b>65M+ rows</b> of defense supply-chain data using streaming chunked inserts and an atomic load-swap strategy for zero-downtime updates
   - Implemented bulk loading with pyodbc <code>fast_executemany</code>, configurable date/numeric transforms, and failure isolation across independent table jobs
   - Built a website spell-checking tool with Playwright + BeautifulSoup to crawl static and JS-rendered pages (incl. authenticated content) and generate CSV reports
   - Scheduled monthly automated runs with rotating logs, row-count validation, and transaction rollback on failure
 
-- <b>REPAY (Realtime Electronic Payments)</b> | <b>Sales Engineer</b> (Jun 2025 â€“ Oct 2025)
+- <b>REPAY (Realtime Electronic Payments)</b> | <b>Sales Engineer</b> (Jun 2025 – Oct 2025)
   - Served as primary technical liaison between enterprise clients, internal sales, and engineering teams
   - Led technical discovery calls; delivered 10+ live demos and 3 API walkthroughs
   - Onboarded 20+ client integrations (auth, data flows, production deployment)
   - Resolved 60+ integration issues to improve reliability and time-to-launch
   - Translated business requirements into clear technical implementation plans
 
-- <b>J&J MedTech</b> | <b>Software Engineering Consultant</b> (Jan 2025 â€“ May 2025)
+- <b>J&J MedTech</b> | <b>Software Engineering Consultant</b> (Jan 2025 – May 2025)
   - Partnered with the Global Supply Chain Customer Service team to deliver a Microsoft PowerApp for product availability notifications
   - Designed a dual-interface solution (admin + customer service views) with role-based access controls
   - Architected the data layer using SharePoint Lists with strict access control and enterprise data governance
 
-- <b>GamesThatWork</b> | <b>Software Engineering Intern</b> (Mar 2024 â€“ Aug 2024)
+- <b>GamesThatWork</b> | <b>Software Engineering Intern</b> (Mar 2024 – Aug 2024)
   - Shipped features across releases; partnered with QA/UX/dev for deployments
   - Built secure auth with Firebase + JavaScript for account management and gated access
   - Resolved 51 GitHub issues via PRs; contributed to 5 features across 2 production versions
@@ -95,24 +95,24 @@
 
 ## Projects
 
-- <b>SMB Financial Health Dashboard</b> (Mar 2026 â€“ Present) | [Live Demo](https://smb-financial-health-dashboard-ycxqewt3iaugubk3f5ghhn.streamlit.app/) | [Repo](https://github.com/ernstc2/SMB-Financial-Health-Dashboard)
+- <b>SMB Financial Health Dashboard</b> (Mar 2026 – Present) | [Live Demo](https://smb-financial-health-dashboard-ycxqewt3iaugubk3f5ghhn.streamlit.app/) | [Repo](https://github.com/ernstc2/SMB-Financial-Health-Dashboard)
   - Consulting analytics dashboard evaluating financial health of small-to-medium SaaS businesses
   - KPI scorecards, RAG benchmarks, P&L waterfall charts, and auto-generated consultant narratives
-  - Built with Python, Pandas, Plotly, NumPy â€” deployed live on Streamlit Cloud
+  - Built with Python, Pandas, Plotly, NumPy — deployed live on Streamlit Cloud
 
-- <b>PatchNotes</b> (Jan 2025 â€“ May 2025) | [Repo](https://github.com/ernstc2/patchnotes)
+- <b>PatchNotes</b> (Jan 2025 – May 2025) | [Repo](https://github.com/ernstc2/patchnotes)
   - Web app aggregating legislative updates from government APIs with AI-generated summaries
   - Built the backend with Node.js, Express, MongoDB (auth, data layer, REST endpoints)
   - Added bookmarks, multi-criteria filtering, and NodeMailer email alerts
 
-- <b>King Ferry Presbyterian Church Website</b> (Sep 2024 â€“ Dec 2024) | [Repo](https://github.com/ernstc2/The-King-Ferry-Presbyterian-Church-Website)
+- <b>King Ferry Presbyterian Church Website</b> (Sep 2024 – Dec 2024) | [Repo](https://github.com/ernstc2/The-King-Ferry-Presbyterian-Church-Website)
   - Led a team of 4 to deliver a responsive site highlighting events, services, and outreach
   - Implemented an events calendar + contact form with accessibility in mind
 
-- <b>Travercity</b> (Sep 2023 â€“ Dec 2023)
+- <b>Travercity</b> (Sep 2023 – Dec 2023)
   - Travel planning app with itineraries + real-time weather and location-based recommendations
 
-- <b>MaLung</b> (Sep 2022 â€“ Dec 2022)
+- <b>MaLung</b> (Sep 2022 – Dec 2022)
   - COVID-19 lung scan classifier; handled back-end/DevOps (Azure + Docker)
   - Built UI in Figma; implemented MariaDB via PHP backend
 
